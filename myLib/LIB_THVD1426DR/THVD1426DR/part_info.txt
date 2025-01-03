@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=THVD1426DR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=8
+Version=1.1
+Released=2023-02-22 08:53:49
+Downloaded=2025-01-03 04:39:18
+3D=Y

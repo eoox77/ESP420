@@ -1,0 +1,9 @@
+Manufacturer=Texas Instruments
+PartNumber=SN74HC4851PWR
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline Packages
+PinCount=16
+Version=1.1
+Released=2020-04-24 02:40:51
+Downloaded=2025-01-03 05:04:18
+3D=Y

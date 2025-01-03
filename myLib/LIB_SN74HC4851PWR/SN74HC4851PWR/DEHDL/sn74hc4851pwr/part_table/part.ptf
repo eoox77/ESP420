@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SN74HC4851PWR'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Texas Instruments", "SN74HC4851PWR" (!) = "", "SOP65P640X120-16N", "Small Outline Packages", "595-SN74HC4851PWR", "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/SN74HC4851PWR?qs=AgY10sKTvDJiHOKineifvQ%3D%3D", "Texas Instruments SN74HC4851PWR, Multiplexer/Demultiplexer Single 8:1, 3 V, 5 V, 16-Pin TSSOP", "http://www.ti.com/lit/gpn/sn74hc4851", "1.2 mm"
+END_PART
+
+END.
